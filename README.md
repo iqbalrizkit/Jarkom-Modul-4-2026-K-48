@@ -929,7 +929,7 @@ for ip in 192.235.0.2 192.235.0.3 192.235.4.2 192.235.4.3 192.235.8.2 192.235.8.
 done
 ```
 
-![Ping JJ](assets/ping-jj.png) |
+![Ping JJ](assets/ping-jj.png)
 
 Jalur routing (traceroute) :
 
